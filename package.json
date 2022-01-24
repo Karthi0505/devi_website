@@ -6,7 +6,6 @@
   "publishConfig": {
     "registry": "https://github.com/Karthi0505/devi_website.git"
   },
-  "private": true,
   "scripts": {
     "start": "webpack serve",
     "watch": "webpack --watch",
