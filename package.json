@@ -1,0 +1,22 @@
+{
+  "name": "devi_bootstrap5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://github.com/Karthi0505/devi_website.git"
+  },
+  "private": true,
+  "scripts": {
+    "start": "webpack serve",
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
